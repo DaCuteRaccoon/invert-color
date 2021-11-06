@@ -15,3 +15,5 @@ var styleSheet = document.createElement("style")
 styleSheet.type = "text/css"
 styleSheet.innerText = styles
 document.head.appendChild(styleSheet)
+
+// https://github.com/DaCuteRaccoon/invert-color
